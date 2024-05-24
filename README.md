@@ -1,0 +1,1 @@
+# data-platform-api-point-consumption-type-reads-rmq-kube
